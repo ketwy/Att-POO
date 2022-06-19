@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=testeAgencia
+comment1.params=
+comment1.target=Banco\ montarTudo()
+comment2.params=n
+comment2.target=java.util.ArrayList\ criarContas(int)
+comment3.params=n
+comment3.target=java.util.ArrayList\ criarAgencia(int)
+comment4.params=
+comment4.target=Banco\ criarBanco()
+numComments=5
